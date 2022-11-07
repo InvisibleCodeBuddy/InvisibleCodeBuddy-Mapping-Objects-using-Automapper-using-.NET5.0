@@ -1,0 +1,17 @@
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\bin\Debug\net6.0\ListArray.exe
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\bin\Debug\net6.0\ListArray.deps.json
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\bin\Debug\net6.0\ListArray.runtimeconfig.json
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\bin\Debug\net6.0\ListArray.dll
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\bin\Debug\net6.0\ListArray.pdb
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\bin\Debug\net6.0\AutoMapper.dll
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\ListArray.csproj.AssemblyReference.cache
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\ListArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\ListArray.AssemblyInfoInputs.cache
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\ListArray.AssemblyInfo.cs
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\ListArray.csproj.CoreCompileInputs.cache
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\ListArray.csproj.CopyComplete
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\ListArray.dll
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\refint\ListArray.dll
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\ListArray.pdb
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\ListArray.genruntimeconfig.cache
+D:\Working\Projects\2022.11.07-C# Automapper\AutoMap\AutoMap\obj\Debug\net6.0\ref\ListArray.dll

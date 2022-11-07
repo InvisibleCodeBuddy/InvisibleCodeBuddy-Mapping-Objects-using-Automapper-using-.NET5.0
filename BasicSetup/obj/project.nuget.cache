@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "maU4yBg16C0ypvdOcgqGrgx8JOzAGiGkeUAap6Gz4HmWkYGGeMw6ayOuxQBgIHNkkq0tnl1+DJW0rEbEmYKgfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drsea\\Downloads\\AutoMap\\AutoMap\\BasicSetup\\BasicCases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drsea\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\drsea\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\drsea\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\drsea\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\drsea\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\drsea\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
