@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\drsea\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\drsea\\.nuget\\packages"
+    ]
+  }
+}
